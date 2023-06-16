@@ -1,11 +1,11 @@
-About r-thief
-=============
+About r-thief-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-thief-feedstock/blob/main/LICENSE.txt)
 
 Home: http://pkg.robjhyndman.com/thief, https://github.com/robjhyndman/thief
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-thief-feedstock/blob/main/LICENSE.txt)
 
 Summary: Methods and tools for generating forecasts at different temporal frequencies using a hierarchical time series approach.
 
